@@ -25,7 +25,7 @@ cd ToDoApp
 npm install
 
 3. Start the development server:
-npm start
+npm dev run
 
 Open your browser and visit: http://localhost:3000
 
